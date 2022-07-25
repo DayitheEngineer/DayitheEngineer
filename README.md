@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DayitheEngineer
 - 👀 I’m interested in Earthquake Eng. Space and Data Science
-- 🌱 I’m currently learning Data Mining and Machine Learning. Also student of Earthquake Eng.
-- 💞️ I’m looking to collaborate on Machine Learning for Seismic Hazard Analysis
-- 📫 How to reach me pouya.msvn96@outlook.com , +989374927727 via WhatsApp
+- 🌱 I’m currently learning Data Science and Machine Learning. Also MaSci student of Earthquake Eng.
+- 💞️ I’m looking to collaborate on Machine Learning for Seismic Hazard Analysis and related fields
+- 📫 How to reach me pouya.msvn96@outlook.com , (+98)-937-492-7727 via WhatsApp
 
 
 <!---
